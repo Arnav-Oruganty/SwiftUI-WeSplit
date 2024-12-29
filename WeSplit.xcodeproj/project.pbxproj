@@ -11,6 +11,7 @@
 		85DE53162C356AD100362AC6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85DE53152C356AD100362AC6 /* ContentView.swift */; };
 		85DE53182C356AD200362AC6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 85DE53172C356AD200362AC6 /* Assets.xcassets */; };
 		85DE531B2C356AD200362AC6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 85DE531A2C356AD200362AC6 /* Preview Assets.xcassets */; };
+		F1FBA96A2D2154FE00DA4653 /* ButtonComp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1FBA9692D2154FE00DA4653 /* ButtonComp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		85DE53152C356AD100362AC6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		85DE53172C356AD200362AC6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		85DE531A2C356AD200362AC6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F1FBA9692D2154FE00DA4653 /* ButtonComp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonComp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				85DE53132C356AD100362AC6 /* WeSplitApp.swift */,
 				85DE53152C356AD100362AC6 /* ContentView.swift */,
+				F1FBA9692D2154FE00DA4653 /* ButtonComp.swift */,
 				85DE53172C356AD200362AC6 /* Assets.xcassets */,
 				85DE53192C356AD200362AC6 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F1FBA96A2D2154FE00DA4653 /* ButtonComp.swift in Sources */,
 				85DE53162C356AD100362AC6 /* ContentView.swift in Sources */,
 				85DE53142C356AD100362AC6 /* WeSplitApp.swift in Sources */,
 			);
